@@ -1,0 +1,6 @@
+- START
+- Input a number
+- Divide number by 2
+- If remainder is zero then it is even otherwise it is odd
+- Print the output for the user
+- STOP
